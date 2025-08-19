@@ -13,7 +13,7 @@ A "Empresa X", líder no seu setor, tinha uma meta ambiciosa: **aumentar a recei
 
 Atuei como **Analista de Dados e Estratégia**, responsável pelo ciclo completo do projeto, desde a preparação dos dados até a apresentação final de um plano de ação.
 
-* **Ferramentas Utilizadas:** Python (Pandas, Matplotlib, Statsmodels), Microsoft Excel e Power BI.
+* **Ferramentas Utilizadas:** Google Colab - Python (Pandas, Matplotlib, NumPy, statsmodels e seaborn), Microsoft Excel e Power BI.
 
 ---
 ## Principais Descobertas (Insights)
